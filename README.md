@@ -1,6 +1,3 @@
-<!--
-**suhedakarabudak/suhedakarabudak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I'm currently working on data science<br>I want to develop computer vision project in the future.
 
