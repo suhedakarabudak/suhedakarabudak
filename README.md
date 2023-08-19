@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm suheda</h1>
 <h3 align="center">A junior, passionate data science traveler</h3>
+<img align="right" alt="Coding" width="400" src ="https://miro.medium.com/v2/resize:fit:1358/1*K56rJqTDTGr4-J5F4qpwEQ.gif">
+
 
 - 👯 I’m looking to collaborate on **Pose Estimation**
 
